@@ -1,56 +1,86 @@
- .               .   ..... :%@8X:  .. .  ..  ..    .                                                           
-  .. .              .. .%X8@S;;Stt%@:    ..;.. ... .                                                   
- ...;:            . . ;888ttX88@XX88%X88Xt%@%;88@XS%;.......                                          
- .:88t..           . .8X%%@:::..:%@Xt::;S888@88%88@@@S888%.                                         
- .:8%:.....:....:tSS88;tX;;::;S8t:;:S888::;;;t%8X@%t@%tX%t%8t.... .. .. .. . ..                     
-  .;X88;...S8XX8@%t;;8%X88@8%t%X8@t...::..:::::::%X@8@%@88@t:@8;...    ... .t8S.. .                 
-..t:::@8;....:@88;:tXt::;;:::8S;:...............;:;;;;8%SX@%:::;8.. . .SX@;S8S:.. .                 |>
- .8X:t88;....::;%8%%;::@X:.S%:....  . . .. ..  ....:::..t%8XXX8;:8;.. %8@XX8t:..:: .                |> 
-..;@@8%;:. .:tX@88X;S%:@;SS.....    .  . :t.:t.... .:....:;Xt::St::@..:::::;:.:88;:..               |>
- ..::8X:::%888S;tS:S;:@;S;....      .   .%8XX8:.. .:X8.....:::.:;8::X..:;888X@88;..                 |>
- ....%t%8X@8@X@@%%8;.8;St.....       .  .Xt8%;:.. :8@@...........;S:;8;tS%t%SXt;:...                |>
-...:.::;;:;tS%8%St.:X;X:.  .        . .;8%;%::.  .;S@%S%t...    . :8;::;Xt;:;;:.:.;%.               |> 
-..@X.t;::.::.8t;t.:8;;;..       .  . .tX@X%S. . ..tt@t888::.      .:8:..;@::8X@:.:8X.               |>  
-..%88@;:....@::t..8:.S...          .t8S@;St%..  ..X:@:;8SX..      ..:8S@:%8;@t@8@8X:.               |> 
-  .::::....%:;t;SX:.@...        .:S@::;S8X%S. .. ;S:XXS%8t8:...: . . .8X8%%@;;::::::.               |> 
-  ..... ...X:@:S;t;@:.   .   ..;8;.t@8X%;%%t. ...@;@:;S888S8:.S@:.  ..:::8t;8:.....                 |> 
-       . .@:SSS;::t;..    ...%8S;@X;t;:::S%t....tttXS%;t;t8@8%XX:. .....:;@;@...                    |> 
-        .S::@XX;.:S...  ..8;%;:t@S;;;:;SS%t:.. X;t;:;;:;:;;ttt;t;... :XS:.ttX:.                     |> 
-      . :S.:@X%;:X..    .%t.::::;t88@:::tt%:..:8X8:;;X@::.:.:.:;8..  .X;S;:8t%.                     |> 
-      . %::%S8X;.S.     St:::XX:.:88X;%8X@%:@X@%X8;:.%;.::S%8%::;.  ..;S;@:;S8.                     |> 
-      .:X:t%X8t.8.      ..St8X8:.t%SXSXt:St8X8t8:88X88S;..%S8SSX.....:@;:;8;S%t.                    |>
-      .X::8@S8S:8..   .. :Xt.:::S@@S8t::X%tX@%88t8X;:.;%SX@@ttt8... .;t..:@8%%8... .                |> 
-      .8::8t8X:.@....;8t.t8X;.8X888X;;::8t88%S:888;:...8X8@888t@:.S8::S::8X%@tS:...                 |>
-      ;%:t;8%X::@X8..%@8@;;:8S8S;;;::.:@8;;@;.%%@;:.. :8X;;;;SS%::@@8%8;.X8t@:;t. .                 |> 
-      ;X88;8t@:.8@X::8S;@8;:.%%8;.....888;@:...t::....:8%;:::88;t@8;S8@;.t;8X8:X.                   |>                                                               Mention of important stuff
-      .;:.tS:X::S%;.88;;:S8X;8t%8:...;S%;@:......... .;8t::t@t88t@:::8t..;8X88;8....                |> 
-      ......:8;.:%@88;:::.:%8t@@%S;..88St.........  . t8;;8%:X8@;;S::S:::%X8%X;:@.                  |>                                                               ╔══╦══════════════════╦══╗             
-           .888::88%@:...;@%88@8X88S.::.....;t%SSt.. .S8;.:.:tt;.%:..t.:XS8X8;.%@t..                |>                                                               ║  ║        EN        ║  ║                                              
-         ..SttX;:8@;8.....8%X%8X;:::........%XXS%;....X8:...;X:XtS:..;%;t@%@8X;SS:.:.               |>             ╔╦════════════════════════════════════════════════╬══╬══════════════════╬══╬═══════════════════════════════════════════════╦╗
-      ....t@X;8::%X;;t....:t8S@8;:..  ..    ..:.:..  .8@::%8%;t@8%. .;%;t;S8@8888@%@8X:. .          |>           ╔═╩╬════════════════════════════════════════════════╝  ║   Introduction   ║  ╚═══════════════════════════════════════════════╩╬══╗
-        .SS88%@:.%8;;%.....:t%t;;S8;:...   ..........tSXStXXt88;X8:..;t;t:X%::tX888S@%8:..          |>           ║  ╚═══════════════════════════════════════════════════╩══════════════════╩═══════════════════════════════════════════════════╝  ║
-       :@tt%@;.8;8@ttt.....:.@.X;..;tS@88Xt:...:;%@88%t;8;8X8%;:@8:. t;;%::8%::;:;;:t;...           |>           ║                               bathist - a person who has been working with scripts since 2022.                                 ║
-    .;8X;%8S:.:%;@@t;88S.....@tS:%8%;::::;;:;t;:..::%t:%8;t%;;.:X8:..S:;t..8@:...:.... .            |>           ║ <p align="center">
-     .:.........t:@tt88t8:...:@S;;88%;t8:.:.:::t8S::X88%S8@;t:..88:.;@;%:..:8@:.....                |>           ║   <img src="https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=777BB4" /> ║
-    . ....... ....@;;8%;:8.. .tt8;8888@@;:::;X%:.X;:t:tX8XS%tt..88:..8;;%..:t8;...                  |>           ║   <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=E34F26" />║
-    . .   .  .  ..@:;S.tS;@....8;8X%;t;X%X888t;t.tX88%;;:.;t;...8@..:@;%S8t::@8:..                  |>           ║   <img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6" /> ║
-                 .8;:t:..8;8:..:8S%;::::%8S8S8XS@@8%%@8@88t;;:..88:.SSX;%8XXX%88Xt..                |>           ║ </p> ║
-                 .8::;..t%;;St..%8;S@S8S8X%X88@@@%t:.;tX888@X%88t8%88%8::;;%8X@SXS..                |>           ║  ║
-                 :X:%:.t@t8t8t8t:88t@88888%%XX@88@@888@@88@88@%%;88@%;X.....:.:;:...                |>           ║  ║
-              ..:8;:8:XS@%::.:@XSXX%;;t@8XSX88@%t;;::::;XXXS8StXt8S8tt@;..... ......                |>           ║  ║
-             . .8t;:8@%@t::...::XS%S;.:;;S@%8;;;..   .:%88X:::8t;88S@XX%:...                        |>           ║  ║
-              .8;@::@X8t;..:.....:X@S8%..::%88@;.    ..::;::.%X;.tt8t:%88%... .                     |>           ║  ║
-            ..S;@8:;8S;;...S8;..%t:;X%888%.:::::.     ......SS88St::.:@t8S:..                       |>           ║  ║
-            ..XX@;:8:;:. ...88:.X8:8;t888t:.....        .  .8SX:....::@t;X8....                     |>           ║  ║
-            .@%S8SS::... . .:8X:;8t8X;:%t;:.               ..::::....;8@tt@8t.                      |>           ║  ║
-            S;S:::....  . ...:8%:8X88::;:.                  ........%@@888%88X..                    |>           ║  ║
-           :%@::.....     ....S8;8S88::...                    ..  ..8;;@S;;%88X..                   |>           ╚═╦═╗                              Actual contacts - @bath1st - discord / @bathist1 - telegram                              ╔═╦══╝
-          .8;S.....         ..:8%XtSX;....                         .;%;;t:.%%%8%..                  |>             ╚═╣                                                                                                                       ╠═╝
-      . ..8;X...             ..::;%@S%...               . ...      ..;@:8...:8;;S...                |>               ╚═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
-      . .:S@...               .:.::8;%...                 ;@:.     ...%;:@.::.S;S;..                
-       ..8;8SX88888S%%ttt%t;......:SS;...                .:8t..    . .:8;;8....@t%@:.  .            
-      .:@;X88@88St:.::::..:S@:tS:..@t:. .              ...:88S%...  ....8:S;...;8;:;8:.. .          
-      ..8@::::.8t;::::8XS8888@%8:.:8;S...               . .8XS@....  ...tt%@:.%t;;:t@S:...          
-       .;8t8XXXX;:t8%.:.....:t8%S88S8t...                ..8%88:....  ...8::88::t@t:;tt;..          
-       ..:t8St88t8::..    .....;8t;;;8:..              .  .%%@8X:.      .@t8;.8S.:..::X8:.          
-       ....:..:;%::           ..:::;88t...               ...%:;S:.      .:;;S::.......%t:..         
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=200&section=header&text=bathist&fontSize=70&fontColor=ffffff" />
+</p>
+
+<h2 align="center">
+  <strong>Developer</strong>
+</h2>
+
+<p align="center">
+  <strong>Skills:</strong> CSS • JavaScript • HTML • Python • C • TypeScript/React
+</p>
+
+<p align="center" style="color:#444; margin: 10px 0;"> --- </p>
+
+<h2 align="center">
+  <strong>About Me</strong>
+</h2>
+
+<p align="center">
+  <strong>Europe (UTC +01:00)</strong><br>
+  <strong>Bathist • he/him</strong><br>
+  <strong>TF2 Enthusiast</strong>
+</p>
+
+<h2 align="center">
+  <strong>Contact for Work</strong>
+</h2>
+
+<p align="center">
+  <strong>Discord (Preferred) or Telegram</strong>
+</p>
+
+<p align="center" style="color:#444; margin: 10px 0;"> --- </p>
+
+<h2 align="center">
+  <strong>Socials & Links</strong>
+</h2>
+
+<p align="center">
+  <a href="https://github.com/bathist">
+    <img src="https://img.shields.io/badge/github-111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/1365696683102568529">
+    <img src="https://img.shields.io/badge/discord-111?style=for-the-badge&logo=discord&logoColor=9b59ff" />
+  </a>
+  <a href="https://t.me/bathist1">
+    <img src="https://img.shields.io/badge/telegram-111?style=for-the-badge&logo=telegram&logoColor=9b59ff" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://creep.gg/bathist">
+    <img src="https://img.shields.io/badge/socials-111?style=for-the-badge&logo=link&logoColor=9b59ff" />
+  </a>
+  <a href="https://telegra.ph/Statement-05-11-11">
+    <img src="https://img.shields.io/badge/statement-111?style=for-the-badge&logo=link&logoColor=9b59ff" />
+  </a>
+</p>
+
+<p align="center" style="color:#444; margin: 10px 0;"> --- </p>
+
+<h2 align="center">
+  <strong>Technologies</strong>
+</h2>
+
+<p align="center">
+  <strong>Apprenticeship Prep</strong>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-111?style=for-the-badge&logo=c-sharp&logoColor=512BD4" />
+  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/C-111?style=for-the-badge&logo=c&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+</p>
+
+<p align="center" style="color:#444; margin: 10px 0;"> --- </p>
+
+<p align="center">
+  <strong>Volunteer Web Development</strong>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6" />
+</p>
