@@ -24,6 +24,8 @@
   <strong>TF2 Enthusiast</strong>
 </p>
 
+<p align="center" style="color:#444; margin: 10px 0;">────────────────────────────────────────────────────────</p>
+
 <h2 align="center">
   <strong>Contact for Work</strong>
 </h2>
