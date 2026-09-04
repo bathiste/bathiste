@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=200&section=header&text=bathist&fontSize=70&fontColor=ffffff" />
 </p>
 
+<p align="center" style="color:#444; margin: 10px 0;">───────────────────────────────────────────────────────────────────────────</p>
+
 <h2 align="center">
   <strong>Developer</strong>
 </h2>
@@ -10,7 +12,7 @@
   <strong>Skills:</strong> CSS • JavaScript • HTML • Python • C • TypeScript/React
 </p>
 
-<p align="center" style="color:#444; margin: 10px 0;"> --- </p>
+<p align="center" style="color:#444; margin: 10px 0;">────────────────────────────────────────────────────────</p>
 
 <h2 align="center">
   <strong>About Me</strong>
@@ -30,7 +32,7 @@
   <strong>Discord (Preferred) or Telegram</strong>
 </p>
 
-<p align="center" style="color:#444; margin: 10px 0;"> --- </p>
+<p align="center" style="color:#444; margin: 10px 0;">────────────────────────────────────────────────────────</p>
 
 <h2 align="center">
   <strong>Socials & Links</strong>
@@ -57,7 +59,7 @@
   </a>
 </p>
 
-<p align="center" style="color:#444; margin: 10px 0;"> --- </p>
+<p align="center" style="color:#444; margin: 10px 0;">────────────────────────────────────────────────────────</p>
 
 <h2 align="center">
   <strong>Technologies</strong>
@@ -73,7 +75,7 @@
   <img src="https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=3178C6" />
 </p>
 
-<p align="center" style="color:#444; margin: 10px 0;"> --- </p>
+<p align="center" style="color:#444; margin: 10px 0;">────────────────────────────────────────────────────────</p>
 
 <p align="center">
   <strong>Volunteer Web Development</strong>
@@ -84,3 +86,6 @@
   <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6" />
 </p>
+
+<p align="center" style="color:#444; margin: 10px 0;">───────────────────────────────────────────────────────────────────────────</p>
+<p align="center" style="color:#444; margin: 10px 0;"> EOF </p>
