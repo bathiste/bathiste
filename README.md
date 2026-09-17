@@ -63,22 +63,6 @@
 
 <p align="center" style="color:#444; margin: 10px 0;">────────────────────────────────────────────────────────</p>
 
-<h2 align="center">
-  <strong>Technologies</strong>
-</h2>
-
-<p align="center">
-  <strong>Apprenticeship Prep</strong>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-111?style=for-the-badge&logo=c-sharp&logoColor=512BD4" />
-  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/C-111?style=for-the-badge&logo=c&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-</p>
-
-<p align="center" style="color:#444; margin: 10px 0;">────────────────────────────────────────────────────────</p>
-
 <p align="center">
   <strong>Volunteer Web Development</strong>
 </p>
